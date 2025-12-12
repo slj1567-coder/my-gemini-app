@@ -11,7 +11,7 @@ from duckduckgo_search import DDGS
 # 請在 GitHub Settings -> Secrets 設定 GEMINI_API_KEY
 GENAI_API_KEY = os.environ.get("GEMINI_API_KEY")
 PODCAST_TITLE = "每日 AI 科技報"
-PODCAST_URL = "https://你的GitHub帳號.github.io/auto-news-podcast/"
+PODCAST_URL = "https://slj1567-coder.github.io/auto-news-podcast/"
 RSS_FILENAME = "feed.xml"
 AUDIO_DIR = "audio"
 
