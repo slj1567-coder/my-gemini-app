@@ -1,0 +1,6 @@
+Plaintext
+google-generativeai
+edge-tts
+feedgen
+duckduckgo-search
+python-dateutil
